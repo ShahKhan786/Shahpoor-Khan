@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ShahKhan786!
+# 👋 Hi, I'm Shahpoor Khan!
 
 Welcome to my GitHub profile! I’m a passionate **Network Engineer** with 8 years of hands-on experience in IT and networking. My interests lie at the intersection of **Python programming** and **cybersecurity**—always striving to combine automation, security, and infrastructure expertise.
 
